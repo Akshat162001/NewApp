@@ -8,8 +8,9 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 <h2>ScreenShots</h2>
-<img width="945" alt="1" src="https://github.com/Akshat162001/NewApp/assets/112319520/2ae34f8e-3537-4bf0-b010-6661fd283381">
- <img width="941" alt="22" src="https://github.com/Akshat162001/NewApp/assets/112319520/a422017e-d9e7-4f7b-a52c-6035170e2448">
-<img width="949" alt="3" src="https://github.com/Akshat162001/NewApp/assets/112319520/5cad5af4-c791-40fb-a80b-dbba7370d9eb">
+<img width="945" alt="1" src="https://github.com/Akshat162001/NewApp/assets/112319520/2ae34f8e-3537-4bf0-b010-6661fd283381"><br>
+<img width="946" alt="fianl2" src="https://github.com/Akshat162001/NewApp/assets/112319520/d4f0f082-00c5-4593-a397-56194d26e049"><br>
+<img width="940" alt="final3" src="https://github.com/Akshat162001/NewApp/assets/112319520/3e292308-a700-414a-a388-346496dffb3c">
+<br>
 
 <h2>Happy Coding </h2>
