@@ -12,3 +12,4 @@ Currently, two official plugins are available:
  <img width="941" alt="22" src="https://github.com/Akshat162001/NewApp/assets/112319520/a422017e-d9e7-4f7b-a52c-6035170e2448">
 <img width="949" alt="3" src="https://github.com/Akshat162001/NewApp/assets/112319520/5cad5af4-c791-40fb-a80b-dbba7370d9eb">
 
+<h2>Happy Coding </h2>
