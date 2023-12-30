@@ -14,4 +14,5 @@ Currently, two official plugins are available:
 <br>
  
 <h3>Rest Category can also be explored present in Navbar</h3><br>
+
 <h2>Happy Coding </h2>
